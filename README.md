@@ -1,62 +1,39 @@
-# Level2-Task1-Calculator
-
 # 🧮 Calculator Web App
 
-This project is a simple and interactive Calculator Web Application that performs basic mathematical operations such as addition, subtraction, multiplication, and division.
-
-The calculator provides a clean and user friendly interface where users can enter numbers and perform calculations easily.
-
-This project was developed as part of my Web Development Internship at Oasis Infobyte.
-
----
+A simple and interactive **Calculator Web Application** built using **HTML, CSS, and JavaScript**.
+This project performs basic arithmetic operations and provides a clean, user friendly interface for quick calculations.
 
 ## ✨ Features
 
-🧮 Perform basic mathematical operations  
-➕ Addition  
-➖ Subtraction  
-✖️ Multiplication  
-➗ Division  
+* ➕ Perform basic arithmetic operations (Addition, Subtraction, Multiplication, Division)
+* 🎨 Clean and responsive user interface
+* ⚡ Instant calculation using JavaScript
+* 📱 Simple design that works on different screen sizes
+* 🖱 Easy to use buttons and display layout
 
-📟 Interactive calculator interface  
-⚡ Instant calculation results  
-🎨 Clean and modern user interface  
-📱 Responsive design for desktop and mobile devices
+## 🛠 Technologies Used
 
----
-
-## 🛠️ Technologies Used
-
-💻 HTML  
-🎨 CSS  
-⚡ JavaScript
-
----
-
-## ⚙️ How It Works
-
-1. Click the number buttons to enter values.  
-2. Choose a mathematical operator (+, -, ×, ÷).  
-3. Enter the next number.  
-4. Press the **equals (=)** button to see the result.  
-5. Use the **clear button** to reset the calculator.
-
----
+* 🌐 HTML5
+* 🎨 CSS3
+* ⚡ JavaScript
 
 ## 🎯 Purpose of the Project
 
-The purpose of this project is to practice JavaScript logic, DOM manipulation, and event handling while building a functional and interactive calculator.
+The purpose of this project is to understand how **JavaScript can be used to add functionality to web pages** while designing a simple and responsive user interface using HTML and CSS.
 
-It also helps improve front end development skills and understanding of user interface design.
+## 💼 Internship
 
----
+This project was developed as part of my **Web Development Internship at Oasis Infobyte**, where I practiced building interactive web applications and improving my frontend development skills.
 
-## 👨‍💻 Author
+## 📚 What I Learned
 
-Kaviya B
-Computer Science Student  
-Aspiring Software Developer
+* 🧩 Structuring a web page using HTML
+* 🎨 Styling layouts using CSS
+* ⚡ Implementing calculator logic with JavaScript
+* 📐 Handling button inputs and displaying results dynamically
 
----
+## 👩‍💻 Author
 
-⭐ Feel free to explore the project and share your feedback!
+**Kaviya B**
+🎓 Computer Science Student
+💻 Aspiring Software Developer
